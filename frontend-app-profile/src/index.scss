@@ -1,0 +1,12 @@
+@import "~@edx/brand/paragon/fonts";
+@import "~@edx/brand/paragon/variables";
+@import "~@edx/paragon/scss/core/core";
+@import "~@edx/brand/paragon/overrides";
+@import "~@anguyenguy/frontend-component-header/dist/index";
+@import "~@anguyenguy/frontend-component-footer/dist/footer";
+
+@import './profile/index';
+
+.profile-page {
+    margin-top: 95px;
+  }
